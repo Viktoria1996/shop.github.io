@@ -1,0 +1,22 @@
+button.delete { margin:  5px 10px;}
+
+button.plus { margin:  5px 10px;}
+
+button.minus { margin:  5px 10px;}
+
+span.name { margin:  10px;}
+
+/*.owl-carousel .owl-item{*/
+/*    width: 230px;*/
+/*}*/
+
+
+#zak { width:100px;
+    height:50px;
+    background: #f3f3f3;
+}
+
+#zak:hover { width:100px;
+    height:50px;
+    background: #fe4c50;
+}

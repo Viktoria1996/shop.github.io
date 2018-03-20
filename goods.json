@@ -1,0 +1,369 @@
+{
+	"101": {
+		"name": "Dr.Pepper 23 Classic",
+		"cost": 2.50,
+		"image": "images/dr_pepper.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"102": {
+		"name": "Dr.Pepper Cherry",
+		"cost": 2.50,
+		"image": "images/dr_pepper_cherry.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"103": {
+		"name": "Dr.Pepper Coffeine Free",
+		"cost": 2.50,
+		"image": "images/dr_pepper_caffeine_free.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"104": {
+		"name": "Dr.Pepper Cherry Vanilla",
+		"cost": 2.50,
+		"image": "images/dr_pepper_cherry_vanilla.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"105": {
+		"name": "Dr.Pepper Vanilla",
+		"cost": 2.50,
+		"image": "images/dr_pepper_vanilla.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"106": {
+		"name": "Dr.Pepper Real Sugar США",
+		"cost": 2.50,
+		"image": "images/drpepper_real_sugar.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"107": {
+		"name": "Hawaiian Punch Fruit Juicy",
+		"cost": 2.50,
+		"image": "images/hawaiian_punch.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"108": {
+		"name": "Coca-Cola Cherry",
+		"cost": 2.50,
+		"image": "images/coca_cola_cherry.png",
+		"categories": "drink",
+		"new": 1
+	},
+	"109": {
+		"name": "Coca-Cola Vanilla",
+		"cost": 2.50,
+		"image": "images/coca_cola_vanilla.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"110": {
+		"name": "Coca-Cola Life",
+		"cost": 2.50,
+		"image": "images/coca_cola_life.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"111": {
+		"name": "Coca-Cola Caffeine Free ",
+		"cost": 2.50,
+		"image": "images/coca_cola_caffeine_free.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"112": {
+		"name": "Sprite Cherry",
+		"cost": 2.50,
+		"image": "images/sprite_cherry.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"113": {
+		"name": "Pepsi Cherry Vanilla",
+		"cost": 2.50,
+		"image": "images/pepsi_chervanilla.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"114": {
+		"name": "Pepsi Wild Cherry",
+		"cost": 2.50,
+		"image": "images/pepsi_cherry.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"115": {
+		"name": "Pepsi Real Sugar",
+		"cost": 2.50,
+		"image": "images/pepsi_real_sugar.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"116": {
+		"name": "Pepsi Coffeine Free",
+		"cost": 2.50,
+		"image": "images/pepsi_caffeine_free.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"117": {
+		"name": "Mountain Dew Baja Blast",
+		"cost": 2.50,
+		"image": "images/mtdew_baja_blast.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"118": {
+		"name": "Mountain Dew Live Wire",
+		"cost": 2.50,
+		"image": "images/mtdew_livewire.png",
+		"categories": "drink",
+		"new": 0
+		
+	},
+	"119": {
+		"name": "Mountain Dew Throwback",
+		"cost": 2.50,
+		"image": "images/mtdew_throwback.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"120": {
+		"name": "Fanta Grapefruit",
+		"cost": 2.50,
+		"image": "images/fanta_grapefruit.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"121": {
+		"name": "Fanta Apple",
+		"cost": 2.50,
+		"image": "images/fanta_apple.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"122": {
+		"name": "Fanta Peach",
+		"cost": 2.50,
+		"image": "images/fanta_peach.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"123": {
+		"name": "Fanta Pineapple",
+		"cost": 2.50,
+		"image": "images/fanta_pineapple.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"124": {
+		"name": "Fanta Grape",
+		"cost": 2.50,
+		"image": "images/fanta_grape.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"125": {
+		"name": "Crush Strawberry",
+		"cost": 2.50,
+		"image": "images/crush_strawberry.png",
+		"categories": "drink",
+		"new": 1
+	},
+	"126": {
+		"name": "Crush Peach",
+		"cost": 2.50,
+		"image": "images/crush_peach_soda.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"127": {
+		"name": "Starbucks Coffee",
+		"cost": 9.50,
+		"image": "images/starbucks_frappuccino_coffee.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"128": {
+		"name": "Starbucks Vanilla",
+		"cost": 9.50,
+		"image": "images/starbucks_frappuccino_vanilla.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"129": {
+		"name": "Arizona Watermelon",
+		"cost": 3.0,
+		"image": "images/arizona_watermelon.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"130": {
+		"name": "Arizona Fruit Punch",
+		"cost": 3.0,
+		"image": "images/arizona_fruit_punch.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"131": {
+		"name": "Arizona Mucho Mango",
+		"cost": 3.0,
+		"image": "images/arizona_mucho_mango.png",
+		"categories": "drink",
+		"new": 0
+	},
+	"132": {
+		"name": "Arizona Rickey Grape Lime ",
+		"cost": 3.00,
+		"image": "images/arizona-rickey-grape-lime.png",
+		"categories": "drink",
+		"new": 0
+		
+	},
+	"201": {
+		"name": "Oreo Mega Stuf",
+		"cost": 4.00,
+		"image": "images/oreo_mega_stuf_chocolate_x2.275x275.png",
+		"categories": "sweets",
+		"new": 0
+	},
+	"202": {
+		"name": "Oreo - Mini Strawberry",
+		"cost": 6.00,
+		"image": "images/mini-oreo-strawberry.png",
+		"categories": "sweets",
+		"new": 1
+	},
+	"203": {
+		"name": "Oreo - Mini Choco",
+		"cost": 6.00,
+		"image": "images/mini-oreo-choco.png",
+		"categories": "sweets",
+		"new": 0
+	},
+	"204": {
+		"name": "Oreo Torte",
+		"cost": 8.70,
+		"image": "images/oreo_torte.275x275.png",
+		"categories": "sweets",
+		"new": 1
+	},
+	"205": {
+		"name": "Milka Choco Wafer",
+		"cost": 1.30,
+		"image": "images/milka_30g_choco_wafer.275x275.png",
+		"categories": "sweets",
+		"new": 0
+	},
+	"206": {
+		"name": "Milka Schoko Drops",
+		"cost": 5.00,
+		"image": "images/milka_42g-milkinis_schoko_drops.275x275.png",
+		"categories": "sweets",
+		"new": 0
+	},
+	"207": {
+		"name": "Milka Cookies Hazelnuts",
+		"cost": 6.00,
+		"image": "images/milka_184g_hazelnuts.275x275.png",
+		"categories": "sweets",
+		"new": 1
+	},
+	"208": {
+		"name": "Milka Choco Pause",
+		"cost": 6.00,
+		"image": "images/milka_260g_chocopause.275x275.png",
+		"categories": "sweets",
+		"new": 0
+	},
+	"209": {
+		"name": "Milka Choco Brownie",
+		"cost": 6.50,
+		"image": "images/milka_choco_brownie.275x275.png",
+		"categories": "sweets",
+		"new": 1
+	},
+	"210": {
+		"name": "Milka Toffee Haselnuss",
+		"cost": 5.50,
+		"image": "images/milka_toffee_haselnuss.275x275.png",
+		"categories": "sweets",
+		"new": 0
+	},
+	"301": {
+		"name": "Love is МИКС 100 шт.",
+		"cost": 25.00,
+		"image": "images/love_is_mix.275x275.png",
+		"categories": "gum",
+		"new": 0
+	},
+	"302": {
+		"name": "Trident Gum Bubblegum",
+		"cost": 2.00,
+		"image": "images/trident_bubblegum_x.275x275.png",
+		"categories": "gum",
+		"new": 0
+	},
+	"303": {
+		"name": "Trident Gum Cinnamon",
+		"cost": 2.00,
+		"image": "images/trident_cinnamon.275x275.png",
+		"categories": "gum",
+		"new": 0
+	},
+	"304": {
+		"name": "Trident Gum Original",
+		"cost": 2.00,
+		"image": "images/trident_original_flavor_x.275x275.png",
+		"categories": "gum",
+		"new": 0
+	},
+	"305": {
+		"name": "Tubble Gum apple",
+		"cost": 4.00,
+		"image": "images/tubble_apple_s.275x275.png",
+		"categories": "gum",
+		"new": 1
+	},
+	"306": {
+		"name": "Tubble Gum cherry",
+		"cost": 4.00,
+		"image": "images/tubble_cherry_s.275x275.png",
+		"categories": "gum",
+		"new": 1
+	},
+	"307": {
+		"name": "Tubble Gum color",
+		"cost": 4.00,
+		"image": "images/tubble_color_s.275x275.png",
+		"categories": "gum",
+		"new": 1
+	},
+	"308": {
+		"name": "Wrigley Juicy Fruit",
+		"cost": 1.50,
+		"image": "images/wrigley_juicy_fruit.275x275.png",
+		"categories": "gum",
+		"new": 1
+	},
+	"309": {
+		"name": "Wrigley Gum Spearmint",
+		"cost": 1.50,
+		"image": "images/wrigley_spearmint.275x275.png",
+		"categories": "gum",
+		"new": 0
+	},
+	"310": {
+		"name": "Juicy Fruit Watermelon",
+		"cost": 1.50,
+		"image": "images/wrigley_starburst_watermelon.275x275.png",
+		"categories": "gum",
+		"new": 0
+	}
+
+}
